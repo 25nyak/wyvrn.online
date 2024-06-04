@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4f87b7fa.css",
+    "main.js": "/static/js/main.0e392d0d.js",
+    "static/js/961.1e59806c.chunk.js": "/static/js/961.1e59806c.chunk.js",
+    "static/js/13.1d3d638c.chunk.js": "/static/js/13.1d3d638c.chunk.js",
+    "static/js/43.05bd2ceb.chunk.js": "/static/js/43.05bd2ceb.chunk.js",
+    "static/js/705.64bb4fb6.chunk.js": "/static/js/705.64bb4fb6.chunk.js",
+    "static/js/206.8d65d83a.chunk.js": "/static/js/206.8d65d83a.chunk.js",
+    "static/js/348.b8511033.chunk.js": "/static/js/348.b8511033.chunk.js",
+    "static/js/204.ccb870fc.chunk.js": "/static/js/204.ccb870fc.chunk.js",
+    "static/js/267.618e0d6b.chunk.js": "/static/js/267.618e0d6b.chunk.js",
+    "static/media/SSHIB_LOGO.png": "/static/media/SSHIB_LOGO.1d17630aad4e879d1cba.png",
+    "static/media/MabryPro-Regular.ttf": "/static/media/MabryPro-Regular.b867029db9eb660840ba.ttf",
+    "static/media/bnb-new-one.png": "/static/media/bnb-new-one.2fa5e5530d5cd7c66441.png",
+    "static/media/PowerGrotesk-Regular.otf": "/static/media/PowerGrotesk-Regular.0d90e9a71d8a55cb0f17.otf",
+    "static/media/binance.png": "/static/media/binance.de77c117e24099c638ae.png",
+    "static/media/powerprospector.png": "/static/media/powerprospector.9f7b7b9e59cb5f622562.png",
+    "static/media/metamask.png": "/static/media/metamask.c7f0f64cbb1de500cd7e.png",
+    "static/media/wallet.png": "/static/media/wallet.93f3d8bd80105cc8425f.png",
+    "static/media/might-meter.png": "/static/media/might-meter.935b2ed0ab7b77b34761.png",
+    "static/media/cir.png": "/static/media/cir.38b3d41149440fdeee0b.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "static/media/plus.64cfad37.svg": "/static/media/plus.64cfad37.fff9395341dd3972e99c2e96f10e13b1.svg",
+    "static/media/minus.35c39da3.svg": "/static/media/minus.35c39da3.f044ebaa40380f84c37c5c808c2d32c7.svg"
+  },
+  "entrypoints": [
+    "static/css/main.4f87b7fa.css",
+    "static/js/main.0e392d0d.js"
+  ]
+}
